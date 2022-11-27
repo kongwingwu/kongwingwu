@@ -1,9 +1,8 @@
 ### Hi there 👋
 
+Looking forward to be an ambitious scholar, I need help from like-minded friends, and I am willing to help those who are committed to meaningful goals. I would be pleased if you would like to have some formal or social science conversation, please email me: kongwingwu@outlook.com!
 
-**kongwingwu/kongwingwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are something about me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,5 +15,5 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/kongwingwu/count.svg" />
+  <img src="https://profile-counter.glitch.me/kongwingwu/count.svg"/>
 </p>
