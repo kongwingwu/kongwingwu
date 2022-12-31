@@ -15,6 +15,11 @@ Here are something about me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love **Students** especially the **Smart** ones
 
+<p align="center">
+  GitHub stats<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=kongwingwu"/>
+</p>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/kongwingwu/count.svg"/>
